@@ -18,6 +18,11 @@
 		<Item Name="Pressure_Cluster.ctl" Type="VI" URL="../Pressure_Cluster.ctl"/>
 		<Item Name="REALTIME_TANK_PRESS.vi" Type="VI" URL="../REALTIME_TANK_PRESS.vi"/>
 		<Item Name="STOP_FGV.vi" Type="VI" URL="../STOP_FGV.vi"/>
+		<Item Name="TCP Multiple Connections Data.ctl" Type="VI" URL="../TCP Multiple Connections Data.ctl"/>
+		<Item Name="TCP Multiple Connections State.ctl" Type="VI" URL="../TCP Multiple Connections State.ctl"/>
+		<Item Name="TCPIP.lvproj" Type="Document" URL="../TCPIP.lvproj"/>
+		<Item Name="TCPIP_Client.vi" Type="VI" URL="../TCPIP_Client.vi"/>
+		<Item Name="TCPIP_Server.vi" Type="VI" URL="../TCPIP_Server.vi"/>
 		<Item Name="Valve_control.ctl" Type="VI" URL="../Valve_control.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -60,9 +65,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Stop FGV_redone.vi" Type="VI" URL="../Stop FGV_redone.vi"/>
-			<Item Name="TCP Multiple Connections Data.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/Data Communication/Protocols/TCP/TCP Multiple Connections/controls/TCP Multiple Connections Data.ctl"/>
-			<Item Name="TCP Multiple Connections State.ctl" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/Data Communication/Protocols/TCP/TCP Multiple Connections/controls/TCP Multiple Connections State.ctl"/>
-			<Item Name="TCPIP_Server.vi" Type="VI" URL="../../TCIP/TCPIP_Server.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
